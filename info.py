@@ -18,8 +18,8 @@ def is_enabled(value, default):
 # Bot Information Configuration
 # ============================
 SESSION = environ.get('SESSION', 'friends_forevera_search')   # Session name for the bot
-API_ID = int(environ.get('API_ID', '26656973')) # API ID from my.telegram.org
-API_HASH = environ.get('API_HASH', 'a7844aace1aca3d206301a5fb55e0629')  # API Hash from my.telegram.org
+API_ID = int(environ.get('API_ID', '30615680')) # API ID from my.telegram.org
+API_HASH = environ.get('API_HASH', '0c74fd90c12a9a717f75054c1d4c447a')  # API Hash from my.telegram.org
 BOT_TOKEN = environ.get('BOT_TOKEN', "")    # Bot token from @BotFather
 
 # ============================
